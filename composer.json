@@ -21,7 +21,7 @@
     "license": "proprietary",
     "homepage": "http://developer.authorize.net",
     "require": {
-        "php": "^8.0.2",
+        "php": "^8.2",
         "ext-curl": "*",
         "ext-json": "*"
     },
